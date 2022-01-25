@@ -1,5 +1,9 @@
 # Anomaly-Vol-Alert
-Авторы: https://github.com/rasulibragimov https://github.com/al33m501
+Авторы: 
+
+https://github.com/rasulibragimov 
+
+https://github.com/al33m501
 
 
 Алгоритм поиска аномальных значений объема и изменения цены и принятия решения о покупке/продаже.
