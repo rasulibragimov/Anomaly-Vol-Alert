@@ -1,5 +1,7 @@
 # Anomaly-Vol-Alert
-Авторы: @rasulibragimov @al33m501
+Авторы: https://github.com/rasulibragimov https://github.com/al33m501
+
+
 Алгоритм поиска аномальных значений объема и изменения цены и принятия решения о покупке/продаже.
 Для запуска необходим REFRESH TOKEN брокера АЛОР. Необходимые модули есть в _requirements.txt_
 ## Описание алгоритма
